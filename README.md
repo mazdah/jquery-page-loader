@@ -1,7 +1,6 @@
 # jQuery Page Loader
 
 ## 개요
-This code works to hide a web page with loading icon until loading all elements in it.
   - 설명: 이 코드는 로딩 이미지를 포함한 마스크로 화면을 가려두었다가 페이지의 모든 요소를 로드한 후 페이지를 보여주는 기능을 합니다.
   - 작성일: 2016.9.26.
 
